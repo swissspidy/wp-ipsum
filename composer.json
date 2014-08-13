@@ -1,0 +1,19 @@
+{
+    "name"        : "spinpress/wp-ipsum",
+    "description" : "A WordPress lorem ipsum generator",
+    "keywords"    : ["wordpress", "spinpress", "plugin", "lorem ipsum"],
+    "type"        : "wordpress-plugin",
+    "homepage"    : "https://github.com/spinpress/wp-ipsum",
+    "authors"     : [
+        {
+            "name"    : "Pascal Birchler",
+            "email"   : "pascal.birchler@spinpress.com",
+            "homepage": "http://spinpress.com/"
+        }
+    ],
+    "support"     : {
+        "issues": "https://github.com/spinpress/wp-ipsum/issues"
+    },
+    "require"     : {
+    }
+}

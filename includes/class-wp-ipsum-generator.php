@@ -113,6 +113,7 @@ class SpinPress_WP_Ipsum_Generator {
 			'BuddyPress',
 			'bbPress',
 			'VaultPress',
+			'WP-CLI'
 		);
 
 		$filler = array(

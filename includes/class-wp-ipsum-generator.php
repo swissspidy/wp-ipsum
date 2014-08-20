@@ -238,6 +238,9 @@ class SpinPress_WP_Ipsum_Generator {
 		// Capitalize the first word, rest is lowercase
 		$sentence =  ucfirst( strtolower( $sentence ) );
 
+		// Making sure WordPress is properly capitalized
+		$sentence = str_replace( array( 'Wordpress', 'wordpress' ), 'WordPress', $sentence );
+
 		return $sentence;
 
 	}

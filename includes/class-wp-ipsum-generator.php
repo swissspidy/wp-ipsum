@@ -61,6 +61,7 @@ class SpinPress_WP_Ipsum_Generator {
 			'Basie',
 			'Parker',
 			'Smith',
+			'Benny',
 
 			// People
 			'Matt',
@@ -77,6 +78,7 @@ class SpinPress_WP_Ipsum_Generator {
 			'Andrea',
 			'Donncha',
 			'Mike',
+			'Dominik',
 
 			// Companies etc.
 			'Automattic',
@@ -92,6 +94,10 @@ class SpinPress_WP_Ipsum_Generator {
 			'Action',
 			'Multisite',
 			'Transient',
+			'Cache',
+			'Database',
+			'API',
+			'Customizer',
 
 			// General
 			'Release',
@@ -113,7 +119,7 @@ class SpinPress_WP_Ipsum_Generator {
 			'BuddyPress',
 			'bbPress',
 			'VaultPress',
-			'WP-CLI'
+			'WP-CLI',
 		);
 
 		$filler = array(

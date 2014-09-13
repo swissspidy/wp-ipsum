@@ -5,16 +5,16 @@
  * @package   WP_Ipsum
  * @author    Pascal Birchler <pascal.birchler@spinpress.com>
  * @license   GPL-2.0+
- * @link      http://spinpress.com
+ * @link      https://spinpress.com
  * @copyright 2014 SpinPress
  *
  * @wordpress-plugin
  * Plugin Name:       WordPress Ipsum
- * Plugin URI:        http://spinpress.com
+ * Plugin URI:        https://spinpress.com
  * Description:       Bored of all the normal lorem ipsum texts? Here's a lorem ipsum generator full of WordPress. Isn't that awesome?
  * Version:           1.0.0
  * Author:            Pascal Birchler
- * Author URI:        http://spinpress.com
+ * Author URI:        https://spinpress.com
  * Text Domain:       wp-ipsum
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
